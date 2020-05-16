@@ -1,0 +1,6 @@
+It is a text file
+from lesson number five
+second task 
+Python is a programming language
+
+There is an empty line above.
